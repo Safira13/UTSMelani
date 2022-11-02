@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Member BlackPink</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>JENNIE KIM</item>
+        <item>LISA</item>
+        <item>KIM JISOO</item>
+        <item>ROSE</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Jennie Kim adalah anak tunggal di keluarganya.  Ia punya dua anjing, Kuma
+            dan Kai yang sering dipamerkan di Instagram-nya. Saat masih SD, Jennie pernah
+            menempuh pendidikan di New Zealand sebelum akhirnya menjadi trainee di YG Entertainment.</item>
+        <item>Lalisa Manoban alias Lisa ialah member asal Thailand. Sejak kecil Lisa sudah sering
+            ikut berbagai kontes menari. Tak salah bila Lisa kini disebut sebagai dancing machine
+            karena kemampuannya mengingat koreografi dalam waktu singkat.</item>
+        <item>Kim Jisoo alias Jisoo yang lahir 3 Januari 1995 merupakan member tertua di BLACKPINK.
+            Meski begitu, dia dijuluki fake maknae karena tingkah lakunya yang justru seperti member termuda.</item>
+        <item>Member yang menggunakan tangan kirinya untuk menulis ini lahir di New Zealand dan
+            besar di Australia. Rosé menyukai seni, terutama musik, sejak kanak-kanak. Dia bisa bermain piano,
+            gitar, bahkan drum.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/gb1</item>
+        <item>@drawable/gb2</item>
+        <item>@drawable/gb3</item>
+        <item>@drawable/gbr4</item>
+
+
+    </integer-array>
+
+</resources>
